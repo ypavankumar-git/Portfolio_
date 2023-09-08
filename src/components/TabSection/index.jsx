@@ -127,7 +127,7 @@ const TabSection = () => {
             <img
               src={images.pavan}
               className="h-full w-full z-10 object-cover object-top rounded-lg filter shadow-lg"
-              alt="Image Felix"
+              alt="Image pavan"
               loading="lazy"
               width={664}
               height={450}

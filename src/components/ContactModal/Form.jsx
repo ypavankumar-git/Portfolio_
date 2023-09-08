@@ -1,8 +1,7 @@
-import React, { useRef, useState } from "react";
+import React from "react";
 import images from "../../constants/image";
 
 export const Form = () => {
-    const message = "Kindly mail in !!!";
     const mailId = "vipinkopavan@gmail.com";
 
   return (
