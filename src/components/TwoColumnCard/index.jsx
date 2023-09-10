@@ -28,7 +28,7 @@ const TwoColumnCard = () => {
         className="cursor-pointer bg-gray-50 px-6 py-16 rounded-3xl h-full filter shadow-md relative md:px-10 dark:bg-primary-500"
       >
         <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
-            Chime Video Calling App
+            Chime Video Calling App - Internal
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
             FEB, 2021 - APRIL, 2021
@@ -83,7 +83,7 @@ const TwoColumnCard = () => {
         className="bg-gray-50 px-6 py-16 rounded-3xl h-full relative filter shadow-md md:px-10 dark:bg-primary-500"
       >
         <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
-            Greenway Health
+            Healthcare Client - USA 
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
             May, 2021 - FEB, 2022
@@ -137,7 +137,7 @@ const TwoColumnCard = () => {
         className="bg-gray-50 px-6 py-16 rounded-3xl h-full relative filter shadow-md md:px-10 dark:bg-primary-500"
       >
         <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
-            Cherokee Nation
+            Learning Management Client - USA
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
             May, 2022 - AUGUST, 2023
@@ -188,7 +188,7 @@ const TwoColumnCard = () => {
         className="bg-gray-50 px-6 py-16 rounded-3xl h-full relative filter shadow-md md:px-10 dark:bg-primary-500"
       >
         <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
-            USHG
+            Hospitality Client - USA
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
             FEB, 2023 - PRESENT
